@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\EPAM_PR2.Task1\TreeLibrary.csproj" />
+    <ProjectReference Include="..\StudentLibrary\StudentLibrary.csproj" />
+  </ItemGroup>
+
+</Project>
